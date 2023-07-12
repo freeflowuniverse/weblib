@@ -2,10 +2,8 @@
 
 Single source for our web components and all javascript components as required.
 
-## Components
-- [Tailwind]()
-libs for kelpler (needed for sign on)
-tailwind components
-playground for openrpc
-docsify
-mdbook
+## TailwindCSS Binaries
+Binaries taken from https://github.com/tailwindlabs/tailwindcss
+
+Resources:
+- [Standalone CLI: Use Tailwind CSS without Node.js](https://tailwindcss.com/blog/standalone-cli)
