@@ -1,2 +1,3 @@
 # weblib
-our web components used
+
+our web components used, all javascript components as required
